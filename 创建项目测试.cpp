@@ -7,6 +7,7 @@
 //传到本地2.0 success
 //传到远程3.0 success
 //传到本地3.0 success
+//传到本地4.0 fail
 
 
 
