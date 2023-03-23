@@ -1,6 +1,8 @@
 ﻿// 创建项目测试.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //
 
+//传到远程1.0
+
 #include <iostream>
 #include <cstring>
 #include "Vector.h"
@@ -8,6 +10,7 @@
 using namespace std;
 int main() {
     cout << "hello Git" << endl;
+
     string name = "";
     int dim, num[MAX];
     cin >> name >> dim;
