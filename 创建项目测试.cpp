@@ -3,7 +3,8 @@
 
 //传到远程1.0
 //传到本地1.0 fail
-//传到远程2.0
+//传到远程2.0 fail
+//传到本地2.0 success
 
 #include <iostream>
 #include <cstring>
